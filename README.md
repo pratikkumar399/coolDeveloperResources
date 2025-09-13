@@ -9,6 +9,16 @@ This repo is your one-stop destination for curated tools, libraries, articles, a
 - [Deep dive into web security](https://github.com/vasanthk/web-security-basics?tab=readme-ov-file)
 - [Learn about performance in web](https://web.dev/learn/performance)
 - [Learn about Patterns](https://www.patterns.dev/)
+- [Improve initial load performance](https://www.developerway.com/posts/initial-load-performance)
+
+
+### CSS
+- [Learn modern css techniques](https://moderncss.dev/)
+- [Genrate different kind of shapes](https://omatsuri.app/color-shades-generator)
+- [CSS generators](https://webcode.tools/css-generator)
+- [Minimal css for you](https://smolcss.dev/)
+- [Get good at css grids](https://grid.malven.co/)
+- [Get good at css flexbox](https://flexbox.malven.co/)
 
 ### React 
 - [Read about reconcilliation in react](https://cekrem.github.io/posts/react-reconciliation-deep-dive/)
@@ -17,6 +27,7 @@ This repo is your one-stop destination for curated tools, libraries, articles, a
 
 ### Javascript
 - [Debugging Javascript memory leak](https://bun.sh/blog/debugging-memory-leaks)
+- [Output based JS snippets for JS mastery](https://github.com/lydiahallie/javascript-questions)
   
 ---
 
