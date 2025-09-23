@@ -12,6 +12,9 @@ This repo is your one-stop destination for curated tools, libraries, articles, a
 - [Improve initial load performance](https://www.developerway.com/posts/initial-load-performance)
 
 
+### Articles to increase your knowledge
+- [Image optimisation by airbnb](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91)
+
 ### CSS
 - [Learn modern css techniques](https://moderncss.dev/)
 - [Genrate different kind of shapes](https://omatsuri.app/color-shades-generator)
